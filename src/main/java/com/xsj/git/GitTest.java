@@ -7,5 +7,6 @@ package com.xsj.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git_01");
+        System.out.println("hello git_02");
     }
 }
